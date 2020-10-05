@@ -1,0 +1,11 @@
+.searchbox {
+  text-align: center;
+  -webkit-appearance: none;
+  border: 4px solid grey;
+  border-radius: 50px;
+  outline: none;
+  padding: 10px;
+  width: 350px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
